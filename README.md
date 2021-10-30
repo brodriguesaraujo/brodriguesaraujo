@@ -14,5 +14,4 @@
 <h3 align = "left">Linguagens e ferramentas: </h3>
 <p align = "left"> <a href="https://developer.android.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href =" https://git-scm.com/ "target = "_ blank"> <img src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" > </a> <a href="https://www.java.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=brodriguesaraujo&show_icons=true&locale=en" alt = "brodriguesaraujo" /> </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brodriguesaraujo&theme=merko&show_icons=truee&exclude_repo=github-readme-stats,anuraghazra.github.io" alt="brodriguesaraujo" /></p>
